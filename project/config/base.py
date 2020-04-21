@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: On production, set SECRET_KEY env variable to override
 SECRET_KEY = '7g@ouozt$*dcy(qp$vv#s$7i^r)46@&9stx%p1tpjuad%y8@bd'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
