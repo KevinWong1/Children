@@ -107,7 +107,7 @@ python manage.py migrate
 5. Get the server running:
 ```
 python manage.py runserver
-```
+``` 
 
 ### Setting up with GitHub repo
 
