@@ -123,6 +123,3 @@ LOGIN_URL = '/account/login/'
 
 # Specify we are using a custom user model
 AUTH_USER_MODEL = 'accounts.User'
-
-
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
